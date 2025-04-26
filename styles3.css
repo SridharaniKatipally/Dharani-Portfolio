@@ -1,0 +1,13 @@
+/* Footer styling */
+footer {
+    width: 100%;
+    background-color: #343a40; /* Dark background color */
+    color: white; /* Text color */
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1000; /* Ensures footer appears above other content */
+  }
+  
